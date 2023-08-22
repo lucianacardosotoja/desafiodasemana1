@@ -1,0 +1,43 @@
+body{
+    background-color:palegoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 10px;     
+}
+#t1{  
+    
+    text-align:center;
+    color:green;
+    padding: 10px;
+}
+#t2{
+    font-style: italic;
+    text-align: center;
+    text-shadow:1px 1px  green;  
+}
+#t3{
+    text-align: left;
+    color:green;
+    
+}
+.fundo{
+    background-color: aqua;
+}
+p{
+   color: black; 
+}
+.caixa{
+    border: 1px white ;
+    padding-top: 10px;
+    margin: 10px; ;
+
+}
+h3{
+    color:green; 
+}
+
+
+
+
+
+
